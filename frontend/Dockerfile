@@ -23,4 +23,4 @@ RUN npm install -g serve
 EXPOSE 5176
 
 # ✅ Serve on port 5176
-CMD ["serve", "-s", "dist", "-l", "5175"]
+CMD ["serve", "-s", "dist", "-l", "5176"]
